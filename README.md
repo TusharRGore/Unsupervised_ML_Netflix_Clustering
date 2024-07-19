@@ -70,7 +70,7 @@ Here's a workflow for a project:
   - Assess the quality and validity of the clusters using metrics such as Silhouette Score
   - Interpret the results to ensure they make sense in the context of the project objectives.
 
-    Conclusion:
+# Conclusion:
 
 Director and cast contain a large number of null values so we will drop these 2 columns.
 In this data set, there are two types of content where 30.86% includes TV shows and the remaining 69.14% carries Movies.
